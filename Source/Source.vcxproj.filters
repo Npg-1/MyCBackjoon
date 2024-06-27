@@ -42,5 +42,8 @@
     <ClCompile Include="단계\문자열\bj5622.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\문자열\bj11718.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
