@@ -129,6 +129,13 @@
   <ItemGroup>
     <ClCompile Include="단계\1차원 배열\bj10807.cpp" />
     <ClCompile Include="단계\1차원 배열\bj10810.cpp" />
+    <ClCompile Include="단계\1차원 배열\bj10811.cpp" />
+    <ClCompile Include="단계\1차원 배열\bj10813.cpp" />
+    <ClCompile Include="단계\1차원 배열\bj5597.cpp" />
+    <ClCompile Include="단계\문자열\bj2743.cpp" />
+    <ClCompile Include="단계\문자열\bj27866.cpp" />
+    <ClCompile Include="단계\문자열\bj5622.cpp" />
+    <ClCompile Include="단계\문자열\bj9086.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
