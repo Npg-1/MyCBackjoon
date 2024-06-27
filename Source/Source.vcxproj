@@ -137,6 +137,7 @@
     <ClCompile Include="단계\문자열\bj27866.cpp" />
     <ClCompile Include="단계\문자열\bj5622.cpp" />
     <ClCompile Include="단계\문자열\bj9086.cpp" />
+    <ClCompile Include="단계\심화 1\3003.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
