@@ -132,14 +132,22 @@
     <ClCompile Include="단계\1차원 배열\bj10811.cpp" />
     <ClCompile Include="단계\1차원 배열\bj10813.cpp" />
     <ClCompile Include="단계\1차원 배열\bj5597.cpp" />
+    <ClCompile Include="단계\2차원 배열\bj2563.cpp" />
+    <ClCompile Include="단계\2차원 배열\bj2738.cpp" />
     <ClCompile Include="단계\문자열\bj11718.cpp" />
     <ClCompile Include="단계\문자열\bj2743.cpp" />
     <ClCompile Include="단계\문자열\bj27866.cpp" />
     <ClCompile Include="단계\문자열\bj5622.cpp" />
     <ClCompile Include="단계\문자열\bj9086.cpp" />
     <ClCompile Include="단계\심화 1\3003.cpp" />
+    <ClCompile Include="단계\심화 1\bj10988.cpp" />
     <ClCompile Include="단계\심화 1\bj2444.cpp" />
+    <ClCompile Include="단계\심화 1\bj25206.cpp" />
+    <ClCompile Include="단계\심화 1\bj2941.cpp" />
     <ClCompile Include="단계\심화 1\bj3003.cpp" />
+    <ClCompile Include="단계\일반 수학1\bj11005.cpp" />
+    <ClCompile Include="단계\일반 수학1\bj2720.cpp" />
+    <ClCompile Include="단계\일반 수학1\bj2745.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
