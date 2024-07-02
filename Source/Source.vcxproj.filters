@@ -81,5 +81,8 @@
     <ClCompile Include="단계\일반 수학1\bj2903.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\일반 수학1\bj1193.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
