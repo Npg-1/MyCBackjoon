@@ -145,8 +145,11 @@
     <ClCompile Include="단계\심화 1\bj25206.cpp" />
     <ClCompile Include="단계\심화 1\bj2941.cpp" />
     <ClCompile Include="단계\심화 1\bj3003.cpp" />
+    <ClCompile Include="단계\약수, 배수와 소수\bj11653.cpp" />
     <ClCompile Include="단계\약수, 배수와 소수\bj2501.cpp" />
+    <ClCompile Include="단계\약수, 배수와 소수\bj2581.cpp" />
     <ClCompile Include="단계\약수, 배수와 소수\bj5086.cpp" />
+    <ClCompile Include="단계\약수, 배수와 소수\bj9506.cpp" />
     <ClCompile Include="단계\일반 수학1\bj11005.cpp" />
     <ClCompile Include="단계\일반 수학1\bj1193.cpp" />
     <ClCompile Include="단계\일반 수학1\bj2720.cpp" />

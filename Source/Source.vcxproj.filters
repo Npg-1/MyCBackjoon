@@ -96,5 +96,14 @@
     <ClCompile Include="단계\일반 수학1\bj9506.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\약수, 배수와 소수\bj9506.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단계\약수, 배수와 소수\bj2581.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단계\약수, 배수와 소수\bj11653.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
