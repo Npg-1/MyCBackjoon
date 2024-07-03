@@ -134,6 +134,7 @@
     <ClCompile Include="단계\1차원 배열\bj5597.cpp" />
     <ClCompile Include="단계\2차원 배열\bj2563.cpp" />
     <ClCompile Include="단계\2차원 배열\bj2738.cpp" />
+    <ClCompile Include="단계\기하(직사각형과 삼각형)\bj15894.cpp" />
     <ClCompile Include="단계\기하(직사각형과 삼각형)\bj3009.cpp" />
     <ClCompile Include="단계\문자열\bj11718.cpp" />
     <ClCompile Include="단계\문자열\bj2743.cpp" />
