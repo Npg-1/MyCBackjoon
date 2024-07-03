@@ -45,9 +45,6 @@
     <ClCompile Include="단계\문자열\bj11718.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="단계\심화 1\3003.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="단계\심화 1\bj2444.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -103,6 +100,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="단계\약수, 배수와 소수\bj11653.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단계\기하(직사각형과 삼각형)\bj3009.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
