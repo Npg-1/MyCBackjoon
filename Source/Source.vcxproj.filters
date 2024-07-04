@@ -114,5 +114,11 @@
     <ClCompile Include="단계\기하(직사각형과 삼각형)\bj14215.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\시간 복잡도\bj24262.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단계\시간 복잡도\bj24263.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

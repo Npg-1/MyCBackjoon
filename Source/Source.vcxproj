@@ -143,6 +143,8 @@
     <ClCompile Include="단계\문자열\bj27866.cpp" />
     <ClCompile Include="단계\문자열\bj5622.cpp" />
     <ClCompile Include="단계\문자열\bj9086.cpp" />
+    <ClCompile Include="단계\시간 복잡도\bj24262.cpp" />
+    <ClCompile Include="단계\시간 복잡도\bj24263.cpp" />
     <ClCompile Include="단계\심화 1\bj10988.cpp" />
     <ClCompile Include="단계\심화 1\bj2444.cpp" />
     <ClCompile Include="단계\심화 1\bj25206.cpp" />
