@@ -132,5 +132,8 @@
     <ClCompile Include="단계\시간 복잡도\bj24313.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\브루트 포스\bj2798.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
