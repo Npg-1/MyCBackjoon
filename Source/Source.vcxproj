@@ -127,6 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj14215.cpp" />
+    <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj15894.cpp" />
+    <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj3009.cpp" />
+    <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj9063.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24262.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24263.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24264.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24265.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24266.cpp" />
+    <ClCompile Include="단계\11) 시간 복잡도\bj24313.cpp" />
+    <ClCompile Include="단계\12) 브루트 포스\bj1018.cpp" />
+    <ClCompile Include="단계\12) 브루트 포스\bj1436.cpp" />
+    <ClCompile Include="단계\12) 브루트 포스\bj19532.cpp" />
+    <ClCompile Include="단계\12) 브루트 포스\bj2231.cpp" />
+    <ClCompile Include="단계\12) 브루트 포스\bj2798.cpp" />
+    <ClCompile Include="단계\13) 정렬\bj2750.cpp" />
+    <ClCompile Include="단계\13) 정렬\many sorts.cpp" />
     <ClCompile Include="단계\1차원 배열\bj10807.cpp" />
     <ClCompile Include="단계\1차원 배열\bj10810.cpp" />
     <ClCompile Include="단계\1차원 배열\bj10811.cpp" />
@@ -134,6 +151,34 @@
     <ClCompile Include="단계\1차원 배열\bj5597.cpp" />
     <ClCompile Include="단계\2차원 배열\bj2563.cpp" />
     <ClCompile Include="단계\2차원 배열\bj2738.cpp" />
+    <ClCompile Include="단계\4) 1차원 배열\bj10807.cpp" />
+    <ClCompile Include="단계\4) 1차원 배열\bj10810.cpp" />
+    <ClCompile Include="단계\4) 1차원 배열\bj10811.cpp" />
+    <ClCompile Include="단계\4) 1차원 배열\bj10813.cpp" />
+    <ClCompile Include="단계\4) 1차원 배열\bj5597.cpp" />
+    <ClCompile Include="단계\5) 문자열\bj11718.cpp" />
+    <ClCompile Include="단계\5) 문자열\bj2743.cpp" />
+    <ClCompile Include="단계\5) 문자열\bj27866.cpp" />
+    <ClCompile Include="단계\5) 문자열\bj5622.cpp" />
+    <ClCompile Include="단계\5) 문자열\bj9086.cpp" />
+    <ClCompile Include="단계\6) 심화 1\bj10988.cpp" />
+    <ClCompile Include="단계\6) 심화 1\bj2444.cpp" />
+    <ClCompile Include="단계\6) 심화 1\bj25206.cpp" />
+    <ClCompile Include="단계\6) 심화 1\bj2941.cpp" />
+    <ClCompile Include="단계\6) 심화 1\bj3003.cpp" />
+    <ClCompile Include="단계\7) 2차원 배열\bj2563.cpp" />
+    <ClCompile Include="단계\7) 2차원 배열\bj2738.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj11005.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj1193.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj2720.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj2745.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj2869.cpp" />
+    <ClCompile Include="단계\8) 일반 수학1\bj2903.cpp" />
+    <ClCompile Include="단계\9) 약수, 배수와 소수\bj11653.cpp" />
+    <ClCompile Include="단계\9) 약수, 배수와 소수\bj2501.cpp" />
+    <ClCompile Include="단계\9) 약수, 배수와 소수\bj2581.cpp" />
+    <ClCompile Include="단계\9) 약수, 배수와 소수\bj5086.cpp" />
+    <ClCompile Include="단계\9) 약수, 배수와 소수\bj9506.cpp" />
     <ClCompile Include="단계\기하(직사각형과 삼각형)\bj14215.cpp" />
     <ClCompile Include="단계\기하(직사각형과 삼각형)\bj15894.cpp" />
     <ClCompile Include="단계\기하(직사각형과 삼각형)\bj3009.cpp" />
@@ -171,6 +216,17 @@
     <ClCompile Include="단계\일반 수학1\bj2869.cpp" />
     <ClCompile Include="단계\일반 수학1\bj2903.cpp" />
     <ClCompile Include="단계\일반 수학1\bj9506.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="x64\Debug\bj10807.obj" />
+    <Object Include="x64\Debug\bj10810.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="x64\Debug\Source.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\Debug\vc143.idb" />
+    <None Include="x64\Debug\vc143.pdb" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
