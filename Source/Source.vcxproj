@@ -142,6 +142,7 @@
     <ClCompile Include="단계\12) 브루트 포스\bj19532.cpp" />
     <ClCompile Include="단계\12) 브루트 포스\bj2231.cpp" />
     <ClCompile Include="단계\12) 브루트 포스\bj2798.cpp" />
+    <ClCompile Include="단계\13) 정렬\bj25305.cpp" />
     <ClCompile Include="단계\13) 정렬\bj2587.cpp" />
     <ClCompile Include="단계\13) 정렬\bj2750.cpp" />
     <ClCompile Include="단계\13) 정렬\many sorts.cpp" />
