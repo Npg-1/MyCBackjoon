@@ -303,6 +303,9 @@
     <ClCompile Include="단계\13) 정렬\bj1181.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="단계\13) 정렬\bj10814.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Object Include="x64\Debug\bj10807.obj" />
