@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="강의\알고리즘 기초1\200 - 자료구조1\bj10810.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj14215.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj15894.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj3009.cpp" />
@@ -142,6 +143,7 @@
     <ClCompile Include="단계\12) 브루트 포스\bj19532.cpp" />
     <ClCompile Include="단계\12) 브루트 포스\bj2231.cpp" />
     <ClCompile Include="단계\12) 브루트 포스\bj2798.cpp" />
+    <ClCompile Include="단계\13) 정렬\18870.cpp" />
     <ClCompile Include="단계\13) 정렬\bj10814.cpp" />
     <ClCompile Include="단계\13) 정렬\bj10989.cpp" />
     <ClCompile Include="단계\13) 정렬\bj11650.cpp" />
