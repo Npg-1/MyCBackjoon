@@ -330,6 +330,15 @@
     <ClCompile Include="강의\알고리즘 기초1\200 - 자료구조1\bj1158.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="강의\알고리즘 기초1\200 - 자료구조1\bj10866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17413.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj10799.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Object Include="x64\Debug\bj10807.obj" />
