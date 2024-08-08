@@ -136,6 +136,7 @@
     <ClCompile Include="강의\알고리즘 기초1\200 - 자료구조1\bj9012.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\200 - 자료구조1\bj9093.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj10799.cpp" />
+    <ClCompile Include="강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17298.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17413.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj14215.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj15894.cpp" />
