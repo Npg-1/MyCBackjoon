@@ -378,6 +378,9 @@
     <ClCompile Include="강의\알고리즘 기초1\300 - 수학 1\bj2609.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="강의\알고리즘 기초1\300 - 수학 1\bj1943.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Object Include="x64\Debug\bj10807.obj" />
