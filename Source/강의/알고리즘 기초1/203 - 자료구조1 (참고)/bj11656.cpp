@@ -37,10 +37,6 @@ void mergeSort(char** arr, char** sortArr, int l, int r)
 
 int main()
 {
-	// 이 코드 틀렸음.. 근데 예외가 발생해서 틀린 문제 "baakjoon"처럼 글자수가 좀 적으면 괜찮은데 글자수가 100개가 넘어가면 중단점 예외가 발생함
-	// 근데 이 예외를 못 잡아서 일단 보류.. 일단 기브업
-
-
 	char str[1001]; scanf("%s", str);
 	char** suffixArr = (char**)calloc(strlen(str), sizeof(char*));
 	char** sortArr = (char**)calloc(strlen(str), sizeof(char*));
