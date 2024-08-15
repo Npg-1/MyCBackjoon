@@ -144,6 +144,7 @@
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10820.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10824.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11655.cpp" />
+    <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1918.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1935.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj2743.cpp" />
