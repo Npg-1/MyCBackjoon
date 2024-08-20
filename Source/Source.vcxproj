@@ -165,6 +165,7 @@
     <ClCompile Include="강의\알고리즘 기초1\303 - 수학1 (참고)\bj11653.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\303 - 수학1 (참고)\bj2745.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj11726.cpp" />
+    <ClCompile Include="강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj11727.cpp" />
     <ClCompile Include="강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj1463.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj14215.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj15894.cpp" />
