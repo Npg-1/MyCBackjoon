@@ -1,2 +1,510 @@
-﻿bj10810.obj : error LNK2005: main이(가) bj10807.obj에 이미 정의되어 있습니다.
-C:\Users\wjddn\Desktop\C_C++\C_Backjoon\x64\Debug\Source.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2743.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj2743.cpp, 단계\5) 문자열\bj2743.cpp, 단계\문자열\bj2743.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj11005.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 강의\알고리즘 기초1\303 - 수학1 (참고)\bj11005.cpp, 단계\8) 일반 수학1\bj11005.cpp, 단계\일반 수학1\bj11005.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj11653.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 강의\알고리즘 기초1\303 - 수학1 (참고)\bj11653.cpp, 단계\9) 약수, 배수와 소수\bj11653.cpp, 단계\약수, 배수와 소수\bj11653.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2745.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 강의\알고리즘 기초1\303 - 수학1 (참고)\bj2745.cpp, 단계\8) 일반 수학1\bj2745.cpp, 단계\일반 수학1\bj2745.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj14215.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\10) 기하(직사각형과 삼각형)\bj14215.cpp, 단계\기하(직사각형과 삼각형)\bj14215.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj15894.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\10) 기하(직사각형과 삼각형)\bj15894.cpp, 단계\기하(직사각형과 삼각형)\bj15894.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj3009.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\10) 기하(직사각형과 삼각형)\bj3009.cpp, 단계\기하(직사각형과 삼각형)\bj3009.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj9063.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\10) 기하(직사각형과 삼각형)\bj9063.cpp, 단계\기하(직사각형과 삼각형)\bj9063.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24262.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24262.cpp, 단계\시간 복잡도\bj24262.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24263.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24263.cpp, 단계\시간 복잡도\bj24263.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24264.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24264.cpp, 단계\시간 복잡도\bj24264.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24265.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24265.cpp, 단계\시간 복잡도\bj24265.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24266.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24266.cpp, 단계\시간 복잡도\bj24266.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj24313.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\11) 시간 복잡도\bj24313.cpp, 단계\시간 복잡도\bj24313.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj1018.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\12) 브루트 포스\bj1018.cpp, 단계\브루트 포스\bj1018.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj1436.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\12) 브루트 포스\bj1436.cpp, 단계\브루트 포스\bj1436.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj19532.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\12) 브루트 포스\bj19532.cpp, 단계\브루트 포스\bj19532.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2231.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\12) 브루트 포스\bj2231.cpp, 단계\브루트 포스\bj2231.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2798.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\12) 브루트 포스\bj2798.cpp, 단계\브루트 포스\bj2798.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj10807.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\1차원 배열\bj10807.cpp, 단계\4) 1차원 배열\bj10807.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj10810.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\1차원 배열\bj10810.cpp, 단계\4) 1차원 배열\bj10810.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj10811.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\1차원 배열\bj10811.cpp, 단계\4) 1차원 배열\bj10811.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj10813.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\1차원 배열\bj10813.cpp, 단계\4) 1차원 배열\bj10813.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj5597.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\1차원 배열\bj5597.cpp, 단계\4) 1차원 배열\bj5597.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2563.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\2차원 배열\bj2563.cpp, 단계\7) 2차원 배열\bj2563.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2738.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\2차원 배열\bj2738.cpp, 단계\7) 2차원 배열\bj2738.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj11718.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\5) 문자열\bj11718.cpp, 단계\문자열\bj11718.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj27866.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\5) 문자열\bj27866.cpp, 단계\문자열\bj27866.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj5622.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\5) 문자열\bj5622.cpp, 단계\문자열\bj5622.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj9086.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\5) 문자열\bj9086.cpp, 단계\문자열\bj9086.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj10988.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\6) 심화 1\bj10988.cpp, 단계\심화 1\bj10988.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2444.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\6) 심화 1\bj2444.cpp, 단계\심화 1\bj2444.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj25206.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\6) 심화 1\bj25206.cpp, 단계\심화 1\bj25206.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2941.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\6) 심화 1\bj2941.cpp, 단계\심화 1\bj2941.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj3003.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\6) 심화 1\bj3003.cpp, 단계\심화 1\bj3003.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj1193.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\8) 일반 수학1\bj1193.cpp, 단계\일반 수학1\bj1193.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2720.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\8) 일반 수학1\bj2720.cpp, 단계\일반 수학1\bj2720.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2869.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\8) 일반 수학1\bj2869.cpp, 단계\일반 수학1\bj2869.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2903.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\8) 일반 수학1\bj2903.cpp, 단계\일반 수학1\bj2903.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2501.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\9) 약수, 배수와 소수\bj2501.cpp, 단계\약수, 배수와 소수\bj2501.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj2581.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\9) 약수, 배수와 소수\bj2581.cpp, 단계\약수, 배수와 소수\bj2581.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj5086.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\9) 약수, 배수와 소수\bj5086.cpp, 단계\약수, 배수와 소수\bj5086.cpp입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 이름이 bj9506.cpp인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 단계\9) 약수, 배수와 소수\bj9506.cpp, 단계\약수, 배수와 소수\bj9506.cpp, 단계\일반 수학1\bj9506.cpp입니다.
+  bj10828.cpp
+  bj10845.cpp
+  bj10866.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10828.cpp(15,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10828.cpp(23,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10845.cpp(140,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10845.cpp(148,20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10845.cpp(153,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10866.cpp(142,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10866.cpp(148,21): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj10866.cpp(153,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1158.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj1158.cpp(60,15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1406.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj1406.cpp(29,54): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj1406.cpp(32,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1874.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj1874.cpp(11,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj1874.cpp(20,16): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9012.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj9012.cpp(6,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj9012.cpp(10,23): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9093.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj9093.cpp(11,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\200 - 자료구조1\bj9093.cpp(19,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10799.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj10799.cpp(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj17298.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17298.cpp(44,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17298.cpp(50,19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj17299.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17299.cpp(45,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\201 - 자료구조1 (연습)\bj17299.cpp(52,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj17413.cpp
+  bj10808.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10808.cpp(6,19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10809.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10809.cpp(6,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10820.cpp
+  bj10824.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10824.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10824.cpp(10,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj10824.cpp(11,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11655.cpp
+  bj11656.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(14,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(19,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(24,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(25,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(29,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(76,47): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj11656.cpp(58,18): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1918.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1918.cpp(131,22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1935.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1935.cpp(26,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1935.cpp(27,22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj1935.cpp(32,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj2743.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj2743.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj2743.cpp(10,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\203 - 자료구조1 (참고)\bj2743.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10430.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj10430.cpp(5,15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10872.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj10872.cpp(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1676.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1676.cpp(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1929.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1929.cpp(25,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1943.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1943.cpp(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1943.cpp(15,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1978.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1978.cpp(29,20): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj1978.cpp(32,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2609.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj2609.cpp(18,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj6588.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\300 - 수학 1\bj6588.cpp(26,10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1373.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj1373.cpp(38,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj1373.cpp(35,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj17087.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj17087.cpp(14,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj17087.cpp(20,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj17103.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj17103.cpp(19,11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj17103.cpp(30,10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9613.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj9613.cpp(13,11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj9613.cpp(17,10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\301 - 수학1 (연습)\bj9613.cpp(22,14): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11005.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj11005.cpp(23,11): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj11005.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11576.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj11576.cpp(6,15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj11576.cpp(14,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11653.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj11653.cpp(5,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2745.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj2745.cpp(9,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\303 - 수학1 (참고)\bj2745.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10844.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj10844.cpp(40,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj10844.cpp(40,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj10844.cpp(40,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj10844.cpp(40,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj10844.cpp(6,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11726.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj11726.cpp(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11727.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj11727.cpp(17,11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj1463.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj1463.cpp(7,13): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj1463.cpp(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1912.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj1912.cpp(6,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj1912.cpp(10,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2193.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj2193.cpp(6,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9095.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj9095.cpp(17,11): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\강의\알고리즘 기초1\400 - 다이나믹 프로그래밍1\bj9095.cpp(21,10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1009.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\그냥\bj1009.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\그냥\bj1009.cpp(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj14215.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\10) 기하(직사각형과 삼각형)\bj14215.cpp(14,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj15894.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\10) 기하(직사각형과 삼각형)\bj15894.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj3009.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\10) 기하(직사각형과 삼각형)\bj3009.cpp(10,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9063.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\10) 기하(직사각형과 삼각형)\bj9063.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\10) 기하(직사각형과 삼각형)\bj9063.cpp(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24262.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24262.cpp(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24263.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24263.cpp(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24264.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24264.cpp(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24265.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24265.cpp(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24266.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24266.cpp(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj24313.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\11) 시간 복잡도\bj24313.cpp(6,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1018.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj1018.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj1018.cpp(16,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj1018.cpp(18,22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1436.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj1436.cpp(44,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj19532.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj19532.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2231.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj2231.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2798.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj2798.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\12) 브루트 포스\bj2798.cpp(14,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  18870.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\18870.cpp(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\18870.cpp(28,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10814.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj10814.cpp(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj10814.cpp(25,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10989.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj10989.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj10989.cpp(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11650.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj11650.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj11650.cpp(18,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11651.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj11651.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj11651.cpp(18,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1181.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1181.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1181.cpp(21,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1181.cpp(148,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1181.cpp(152,32): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1181.cpp(153,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1427.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj1427.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj25305.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj25305.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj25305.cpp(15,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2587.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj2587.cpp(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2750.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj2750.cpp(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\bj2750.cpp(27,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  many sorts.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\many sorts.cpp(35,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\13) 정렬\many sorts.cpp(397,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bj10807.cpp
+/단계/1차원 배열/bj10807.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\1차원 배열\bj10807.cpp': No such file or directory
+  (소스 파일 '/단계/1차원 배열/bj10807.cpp'을(를) 컴파일하는 중)
+  
+  bj10810.cpp
+/단계/1차원 배열/bj10810.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\1차원 배열\bj10810.cpp': No such file or directory
+  (소스 파일 '/단계/1차원 배열/bj10810.cpp'을(를) 컴파일하는 중)
+  
+  bj10811.cpp
+/단계/1차원 배열/bj10811.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\1차원 배열\bj10811.cpp': No such file or directory
+  (소스 파일 '/단계/1차원 배열/bj10811.cpp'을(를) 컴파일하는 중)
+  
+  bj10813.cpp
+/단계/1차원 배열/bj10813.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\1차원 배열\bj10813.cpp': No such file or directory
+  (소스 파일 '/단계/1차원 배열/bj10813.cpp'을(를) 컴파일하는 중)
+  
+  bj5597.cpp
+/단계/1차원 배열/bj5597.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\1차원 배열\bj5597.cpp': No such file or directory
+  (소스 파일 '/단계/1차원 배열/bj5597.cpp'을(를) 컴파일하는 중)
+  
+  bj2563.cpp
+/단계/2차원 배열/bj2563.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\2차원 배열\bj2563.cpp': No such file or directory
+  (소스 파일 '/단계/2차원 배열/bj2563.cpp'을(를) 컴파일하는 중)
+  
+  bj2738.cpp
+/단계/2차원 배열/bj2738.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\2차원 배열\bj2738.cpp': No such file or directory
+  (소스 파일 '/단계/2차원 배열/bj2738.cpp'을(를) 컴파일하는 중)
+  
+  bj10807.cpp
+  bj10810.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj10811.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\4) 1차원 배열\bj10811.cpp(17,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\4) 1차원 배열\bj10811.cpp(25,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10813.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\4) 1차원 배열\bj10813.cpp(15,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\4) 1차원 배열\bj10813.cpp(23,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj5597.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\4) 1차원 배열\bj5597.cpp(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11718.cpp
+  bj2743.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj2743.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj2743.cpp(10,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj2743.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj27866.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj27866.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj27866.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj5622.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj5622.cpp(19,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9086.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj9086.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\5) 문자열\bj9086.cpp(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj10988.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj10988.cpp(12,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj10988.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2444.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj2444.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj25206.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj25206.cpp(38,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj25206.cpp(43,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj25206.cpp(44,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2941.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj2941.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj3003.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\6) 심화 1\bj3003.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2563.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\7) 2차원 배열\bj2563.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\7) 2차원 배열\bj2563.cpp(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2738.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\7) 2차원 배열\bj2738.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\7) 2차원 배열\bj2738.cpp(16,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\7) 2차원 배열\bj2738.cpp(26,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11005.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj11005.cpp(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj11005.cpp(95,5): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+      C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj11005.cpp(7,5):
+      'main'의 이전 정의를 참조하십시오.
+  
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj11005.cpp(98,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj1193.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj1193.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2720.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2720.cpp(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2720.cpp(16,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2745.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2745.cpp(11,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2745.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2869.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2869.cpp(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj2903.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\8) 일반 수학1\bj2903.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj11653.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\9) 약수, 배수와 소수\bj11653.cpp(6,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2501.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\9) 약수, 배수와 소수\bj2501.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj2581.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\9) 약수, 배수와 소수\bj2581.cpp(24,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj5086.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\9) 약수, 배수와 소수\bj5086.cpp(8,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj9506.cpp
+C:\Users\wjddn\Desktop\C_C++\MyCBackjoon\Source\단계\9) 약수, 배수와 소수\bj9506.cpp(12,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj14215.cpp
+/단계/기하(직사각형과 삼각형)/bj14215.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\기하(직사각형과 삼각형)\bj14215.cpp': No such file or directory
+  (소스 파일 '/단계/기하(직사각형과 삼각형)/bj14215.cpp'을(를) 컴파일하는 중)
+  
+  bj15894.cpp
+/단계/기하(직사각형과 삼각형)/bj15894.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\기하(직사각형과 삼각형)\bj15894.cpp': No such file or directory
+  (소스 파일 '/단계/기하(직사각형과 삼각형)/bj15894.cpp'을(를) 컴파일하는 중)
+  
+  bj3009.cpp
+/단계/기하(직사각형과 삼각형)/bj3009.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\기하(직사각형과 삼각형)\bj3009.cpp': No such file or directory
+  (소스 파일 '/단계/기하(직사각형과 삼각형)/bj3009.cpp'을(를) 컴파일하는 중)
+  
+  bj9063.cpp
+/단계/기하(직사각형과 삼각형)/bj9063.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\기하(직사각형과 삼각형)\bj9063.cpp': No such file or directory
+  (소스 파일 '/단계/기하(직사각형과 삼각형)/bj9063.cpp'을(를) 컴파일하는 중)
+  
+  bj11718.cpp
+/단계/문자열/bj11718.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\문자열\bj11718.cpp': No such file or directory
+  (소스 파일 '/단계/문자열/bj11718.cpp'을(를) 컴파일하는 중)
+  
+  bj2743.cpp
+/단계/문자열/bj2743.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\문자열\bj2743.cpp': No such file or directory
+  (소스 파일 '/단계/문자열/bj2743.cpp'을(를) 컴파일하는 중)
+  
+  bj27866.cpp
+/단계/문자열/bj27866.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\문자열\bj27866.cpp': No such file or directory
+  (소스 파일 '/단계/문자열/bj27866.cpp'을(를) 컴파일하는 중)
+  
+  bj5622.cpp
+/단계/문자열/bj5622.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\문자열\bj5622.cpp': No such file or directory
+  (소스 파일 '/단계/문자열/bj5622.cpp'을(를) 컴파일하는 중)
+  
+  bj9086.cpp
+/단계/문자열/bj9086.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\문자열\bj9086.cpp': No such file or directory
+  (소스 파일 '/단계/문자열/bj9086.cpp'을(를) 컴파일하는 중)
+  
+  bj1018.cpp
+/단계/브루트 포스/bj1018.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\브루트 포스\bj1018.cpp': No such file or directory
+  (소스 파일 '/단계/브루트 포스/bj1018.cpp'을(를) 컴파일하는 중)
+  
+  bj1436.cpp
+/단계/브루트 포스/bj1436.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\브루트 포스\bj1436.cpp': No such file or directory
+  (소스 파일 '/단계/브루트 포스/bj1436.cpp'을(를) 컴파일하는 중)
+  
+  bj19532.cpp
+/단계/브루트 포스/bj19532.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\브루트 포스\bj19532.cpp': No such file or directory
+  (소스 파일 '/단계/브루트 포스/bj19532.cpp'을(를) 컴파일하는 중)
+  
+  bj2231.cpp
+/단계/브루트 포스/bj2231.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\브루트 포스\bj2231.cpp': No such file or directory
+  (소스 파일 '/단계/브루트 포스/bj2231.cpp'을(를) 컴파일하는 중)
+  
+  bj2798.cpp
+/단계/브루트 포스/bj2798.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\브루트 포스\bj2798.cpp': No such file or directory
+  (소스 파일 '/단계/브루트 포스/bj2798.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj24262.cpp
+/단계/시간 복잡도/bj24262.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24262.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24262.cpp'을(를) 컴파일하는 중)
+  
+  bj24263.cpp
+/단계/시간 복잡도/bj24263.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24263.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24263.cpp'을(를) 컴파일하는 중)
+  
+  bj24264.cpp
+/단계/시간 복잡도/bj24264.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24264.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24264.cpp'을(를) 컴파일하는 중)
+  
+  bj24265.cpp
+/단계/시간 복잡도/bj24265.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24265.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24265.cpp'을(를) 컴파일하는 중)
+  
+  bj24266.cpp
+/단계/시간 복잡도/bj24266.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24266.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24266.cpp'을(를) 컴파일하는 중)
+  
+  bj24313.cpp
+/단계/시간 복잡도/bj24313.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\시간 복잡도\bj24313.cpp': No such file or directory
+  (소스 파일 '/단계/시간 복잡도/bj24313.cpp'을(를) 컴파일하는 중)
+  
+  bj10988.cpp
+/단계/심화 1/bj10988.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\심화 1\bj10988.cpp': No such file or directory
+  (소스 파일 '/단계/심화 1/bj10988.cpp'을(를) 컴파일하는 중)
+  
+  bj2444.cpp
+/단계/심화 1/bj2444.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\심화 1\bj2444.cpp': No such file or directory
+  (소스 파일 '/단계/심화 1/bj2444.cpp'을(를) 컴파일하는 중)
+  
+  bj25206.cpp
+/단계/심화 1/bj25206.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\심화 1\bj25206.cpp': No such file or directory
+  (소스 파일 '/단계/심화 1/bj25206.cpp'을(를) 컴파일하는 중)
+  
+  bj2941.cpp
+/단계/심화 1/bj2941.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\심화 1\bj2941.cpp': No such file or directory
+  (소스 파일 '/단계/심화 1/bj2941.cpp'을(를) 컴파일하는 중)
+  
+  bj3003.cpp
+/단계/심화 1/bj3003.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\심화 1\bj3003.cpp': No such file or directory
+  (소스 파일 '/단계/심화 1/bj3003.cpp'을(를) 컴파일하는 중)
+  
+  bj11653.cpp
+/단계/약수, 배수와 소수/bj11653.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\약수, 배수와 소수\bj11653.cpp': No such file or directory
+  (소스 파일 '/단계/약수, 배수와 소수/bj11653.cpp'을(를) 컴파일하는 중)
+  
+  bj2501.cpp
+/단계/약수, 배수와 소수/bj2501.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\약수, 배수와 소수\bj2501.cpp': No such file or directory
+  (소스 파일 '/단계/약수, 배수와 소수/bj2501.cpp'을(를) 컴파일하는 중)
+  
+  bj2581.cpp
+/단계/약수, 배수와 소수/bj2581.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\약수, 배수와 소수\bj2581.cpp': No such file or directory
+  (소스 파일 '/단계/약수, 배수와 소수/bj2581.cpp'을(를) 컴파일하는 중)
+  
+  bj5086.cpp
+/단계/약수, 배수와 소수/bj5086.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\약수, 배수와 소수\bj5086.cpp': No such file or directory
+  (소스 파일 '/단계/약수, 배수와 소수/bj5086.cpp'을(를) 컴파일하는 중)
+  
+  bj9506.cpp
+/단계/약수, 배수와 소수/bj9506.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\약수, 배수와 소수\bj9506.cpp': No such file or directory
+  (소스 파일 '/단계/약수, 배수와 소수/bj9506.cpp'을(를) 컴파일하는 중)
+  
+  bj11005.cpp
+/단계/일반 수학1/bj11005.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj11005.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj11005.cpp'을(를) 컴파일하는 중)
+  
+  bj1193.cpp
+/단계/일반 수학1/bj1193.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj1193.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj1193.cpp'을(를) 컴파일하는 중)
+  
+  bj2720.cpp
+/단계/일반 수학1/bj2720.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj2720.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj2720.cpp'을(를) 컴파일하는 중)
+  
+  bj2745.cpp
+/단계/일반 수학1/bj2745.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj2745.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj2745.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bj2869.cpp
+/단계/일반 수학1/bj2869.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj2869.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj2869.cpp'을(를) 컴파일하는 중)
+  
+  bj2903.cpp
+/단계/일반 수학1/bj2903.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj2903.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj2903.cpp'을(를) 컴파일하는 중)
+  
+  bj9506.cpp
+/단계/일반 수학1/bj9506.cpp(1,1): error C1083: 소스 파일을 열 수 없습니다. '단계\일반 수학1\bj9506.cpp': No such file or directory
+  (소스 파일 '/단계/일반 수학1/bj9506.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
