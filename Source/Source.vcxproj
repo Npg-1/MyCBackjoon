@@ -179,6 +179,7 @@
     <ClCompile Include="그냥\bj1094.cpp" />
     <ClCompile Include="그냥\bj1100.cpp" />
     <ClCompile Include="그냥\bj1110.cpp" />
+    <ClCompile Include="그냥\bj1251.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj14215.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj15894.cpp" />
     <ClCompile Include="단계\10) 기하(직사각형과 삼각형)\bj3009.cpp" />
